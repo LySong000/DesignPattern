@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/七大原则Principle/七大原则Principle.iml" filepath="$PROJECT_DIR$/七大原则Principle/七大原则Principle.iml" />
+    </modules>
+  </component>
+</project>
