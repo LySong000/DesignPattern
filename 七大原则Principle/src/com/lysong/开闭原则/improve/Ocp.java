@@ -31,7 +31,6 @@ class GraphicEditor {
 }
 abstract class Shape{
     int m_type;
-
     public abstract void draw();//抽象方法
 }
 
