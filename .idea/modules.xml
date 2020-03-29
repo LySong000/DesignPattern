@@ -4,8 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/七大原则Principle/七大原则Principle.iml" filepath="$PROJECT_DIR$/七大原则Principle/七大原则Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/享元模式flyweight/享元模式flyweight.iml" filepath="$PROJECT_DIR$/享元模式flyweight/享元模式flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/单例模式Singleton/单例模式Singleton.iml" filepath="$PROJECT_DIR$/单例模式Singleton/单例模式Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/原型模式Proto/原型模式Proto.iml" filepath="$PROJECT_DIR$/原型模式Proto/原型模式Proto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/外观模式facade/外观模式facade.iml" filepath="$PROJECT_DIR$/外观模式facade/外观模式facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/工厂模式Factory/工厂模式Factory.iml" filepath="$PROJECT_DIR$/工厂模式Factory/工厂模式Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/建造者模式builder/建造者模式builder.iml" filepath="$PROJECT_DIR$/建造者模式builder/建造者模式builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/桥接模式Bridge/桥接模式Bridge.iml" filepath="$PROJECT_DIR$/桥接模式Bridge/桥接模式Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/类适配器模式Adapter/类适配器模式Adapter.iml" filepath="$PROJECT_DIR$/类适配器模式Adapter/类适配器模式Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/组合模式composite/组合模式composite.iml" filepath="$PROJECT_DIR$/组合模式composite/组合模式composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/装饰者模式decorator/装饰者模式decorator.iml" filepath="$PROJECT_DIR$/装饰者模式decorator/装饰者模式decorator.iml" />
     </modules>
   </component>
 </project>
